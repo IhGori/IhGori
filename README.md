@@ -1,9 +1,9 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+
 
 ### Hi, I'm Igor 👋
 I am a Computer Engineering student, interested in software development projects that impact on improving lives.
 - I'm from Brazil (Petrolina - PE)
-- 🔭 Currently, I'm working on a Software Engineering project in the health area (improving full stack development techniques).
+- Currently, I'm working on a Software Engineering project in the health area (improving full stack development techniques).
 
 
 
